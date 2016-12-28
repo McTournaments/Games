@@ -1,0 +1,3 @@
+name: GameAPI
+version: ${project.version}
+main: net.mctournaments.gameapi.GameAPI
